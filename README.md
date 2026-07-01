@@ -1,2 +1,3 @@
 # LEONIDAS-MTBSKILLS-COACHING
 LEONIDAS MTB SKILLS COACHING
+npx create-next-app@latest leonidasmtb
