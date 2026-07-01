@@ -7,3 +7,5 @@ Tailwind CSS → Yes
 src directory → Yes
 App Router → Yes
 Import Alias → Yes
+cd leonidasmtb
+npm run dev
