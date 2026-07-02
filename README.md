@@ -1,1 +1,0 @@
-Extract this ZIP, upload all extracted files to GitHub, then import into Vercel.
